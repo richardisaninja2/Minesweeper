@@ -142,6 +142,9 @@ files:
           }
       }
     learner_created: false
-feedback_link: https://hyperskill.org/projects/77/stages/428/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/7202#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 31 Jan 2024 08:33:31 UTC"
 record: -1
